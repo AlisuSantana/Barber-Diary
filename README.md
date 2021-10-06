@@ -1,2 +1,2 @@
 # Barber-Diary
-Agenda de barbeiro
+App de controler de agenda de barbeiro
