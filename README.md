@@ -1,3 +1,5 @@
+App desenvolvido com expo e php para comunicação do banco
+
 ## Dependências
 
 npm init  'nomeApp'
