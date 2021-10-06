@@ -1,4 +1,10 @@
-App desenvolvido com expo e php para comunicação do banco
+### Agendamentos de serviços de barbeiro em residência
+
+###App desenvolvido com expo e php para comunicação do banco
+### Projeto em andamento...
+
+## Telas 
+![merge_from_ofoct](https://user-images.githubusercontent.com/58946493/128271582-ca440c0f-d09a-419a-90f3-6625951e5515.jpg)
 
 ## Dependências
 
